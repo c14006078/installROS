@@ -21,7 +21,7 @@ sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu trusty main" > /etc/apt
 wget https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -O - | sudo apt-key add -
 # Installation
 sudo apt-get update
-sudo apt-get install ros-indigo-ros-base -y
+sudo apt-get install ros-indigo-desktop -y
 # Add Individual Packages here
 # You can install a specific ROS package (replace underscores with dashes of the package name):
 # sudo apt-get install ros-indigo-PACKAGE

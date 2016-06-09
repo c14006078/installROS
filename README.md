@@ -1,3 +1,6 @@
+#Modify Version-- indigo distrubution with desktop version
+It can also use in Jetson TX1, but it don't have desktop-full version.
+
 # installROS
 Install Robot Operating System (ROS) on NVIDIA Jetson TK1
 
